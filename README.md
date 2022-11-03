@@ -1,4 +1,4 @@
-# fresh project
+# Plan9 Tailwind Components
 
 ### Usage
 
